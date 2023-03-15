@@ -1,0 +1,7 @@
+﻿  03-analytics.cpp
+D:\CHAI3D-HandExo\examples\GLFW\03-analytics\03-analytics.cpp(36,1): warning C4005: “M_PI”: 宏重定义
+D:\CHAI3D-HandExo\external\Eigen\Eigen\Geometry(13): message : 参见“M_PI”的前一个定义
+D:\CHAI3D-HandExo\examples\GLFW\03-analytics\03-analytics.cpp(1019,39): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\CHAI3D-HandExo\examples\GLFW\03-analytics\03-analytics.cpp(1022,40): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  LINK : 没有找到 ..\..\..\bin\win-Win32\03-analytics.exe 或上一个增量链接没有生成它；正在执行完全链接
+  03-analytics-VS2015.vcxproj -> D:\CHAI3D-HandExo\bin\win-Win32\03-analytics.exe

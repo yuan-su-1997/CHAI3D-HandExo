@@ -1,0 +1,6 @@
+﻿  01-mydevice.cpp
+C:\Users\96313\Desktop\CHAI3D-HandExo\examples\GLFW\01-mydevice\01-mydevice.cpp(22,1): warning C4005: “M_PI”: 宏重定义
+C:\Users\96313\Desktop\CHAI3D-HandExo\external\Eigen\Eigen\Geometry(13): message : 参见“M_PI”的前一个定义
+C:\Users\96313\Desktop\CHAI3D-HandExo\examples\GLFW\01-mydevice\01-mydevice.cpp(811,39): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\96313\Desktop\CHAI3D-HandExo\examples\GLFW\01-mydevice\01-mydevice.cpp(814,40): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  01-mydevice-VS2015.vcxproj -> C:\Users\96313\Desktop\CHAI3D-HandExo\bin\win-Win32\01-mydevice.exe
