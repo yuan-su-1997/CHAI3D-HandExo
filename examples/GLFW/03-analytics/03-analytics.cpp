@@ -403,6 +403,7 @@ int main(int argc, char* argv[])
     //--------------------------------------------------------------------------
 
     std::cout << std::endl;
+    std::cout << "hello world !" << std::endl;
     std::cout << "-----------------------------------" << std::endl;
     std::cout << "CHAI3D" << std::endl;
     std::cout << "Device: HandExoskeleton" << std::endl;
